@@ -2,7 +2,7 @@
 
 #>>telnet domain port #
 
-telnet www.dr-chuck.com 80
+>>telnet www.dr-chuck.com 80
 #port 80 is the non-ecrypted HTTP port
 
 #Trying 74.208.28.177..
